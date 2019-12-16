@@ -1,7 +1,7 @@
 ---
 title: "Post about Me"
 layout: archive
-permalink: /categories/subinium
+permalink: /categories/test
 author_profile: true
 sidebar_main: true
 ---

@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "indigo218의 블로그"
 title_separator          : "-"
-name                     : "인디고의 블로그""
-description              : "시험 포스팅 중입니다"."
+name                     : "인디고의 블로그"
+description              : "시험 포스팅 중입니다"
 url                      : "https://indigo218.github.io"
 logo                     : "/assets/images/logo3.png"
 masthead_title           : "Hello World!"
@@ -109,30 +109,30 @@ author:
   location         : "Suwon,Korea"
   email            : "indigo218@snu.ac.kr"
   uri              :
-  home             : "#" # null (default), "absolute or relative url to link to author home"
+  home             : ## null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "#"
+  facebook         : #####
   foursquare       :
-  github           : "indigo218"
+  github           : #####
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "#"
+  linkedin         : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "#"
+  steam            : #
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "indigo218"
+  youtube          : #
 
 
 # Reading Files
