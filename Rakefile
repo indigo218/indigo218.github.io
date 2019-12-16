@@ -9,7 +9,7 @@ require "bundler/setup"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "subinium/subinium.github.io"
+GITHUB_REPONAME = "indigo218/indigo218.github.io"
 
 
 desc "Generate blog files"
