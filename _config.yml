@@ -81,7 +81,7 @@ naver_site_verification  :
 twitter:
   sername               :
 facebook:
-  username               : &facebook "SubinAn"
+  username               : #&facebook "SubinAn"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/mac_asb.jpg"
