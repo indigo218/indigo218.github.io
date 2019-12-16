@@ -103,37 +103,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "An Subin"
+  name             : "Indigo218"
   avatar           : "/assets/images/mac_asb.jpg"
-  bio              : "Yeah, I am Subinium."
+  bio              : "Yeah, I am indigo218."
   location         : "Seoul,Korea"
-  email            : "me@ansubin.com"
+  email            : "indigo218@snu.ac.kr"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "subinium"
+  facebook         : #
   foursquare       :
-  github           : "subinium"
+  github           : #
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "subin-an-841975110"
+  linkedin         : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "subinium"
+  steam            : #
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
-
+  youtube          : #
 
 # Reading Files
 include:
