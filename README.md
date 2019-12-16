@@ -1,273 +1,144 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# An Subin (Subinium)의 기술 블로그
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
-[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
+> 오랫동안 꿈을 그리는 사람은 마침내 그 꿈을 닮아간다
 
-Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
+개발자를 위한 개발자, 모두를 위한 **인공지능** 을 꿈꾸는 개발자 안수빈(@subinium)입니다.
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+잘하기보다는 잘하고 싶어하는 사람을 돕고 싶습니다.
+하지만 그 전에 제가 먼저 실력이 되야할 것 같아 매 순간을 의미있게 살기위해 노력 중입니다.
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) to continue developing and maintaining it.**
+이전에는 알고리즘 대회를 준비했었고, 2019년부터 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
+Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 노트북(커널) 부문에서 상위 0.1%에 도달하였습니다.
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
+그 외에도 Interpretable/Explainable AI 분야에 관심이 많고, Deep Learning을 좋아하려고 노력하고 있습니다.
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
+디자인을 좋아하여 Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다. 이렇게 쌓은 디자인 실력은 고스란히 Keynote와 PPT를 만드는데 쓰고 있습니다.
 
-[![Minimal Mistakes live preview][2]][1]
+나중에는 ML도 멋진 강의 자료를 만들고 싶습니다. 이쁜 자료가 공부하기도 좋으니까요!! 2020년에는 책을 쓰는 것을 목표로 하고 있습니다.
 
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
+강의나 발표를 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
 
-![layout examples](screenshot-layouts.png)
+- [BOJ](https://www.acmicpc.net/user/subinium), [Codeforces](http://codeforces.com/profile/subinium)
+- [Kaggle](https://www.kaggle.com/subinium)
+- [Github](https://github.com/subinium)
 
-## Notable features
+## Education
 
-- Bundled as a "theme gem" for easier installation/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data.
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and [utterances](https://utteranc.es/)).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+- **고려대학교 정보보호학부 사이버국방학과, 융합보안융합전공** 2016 ~ 2020 (졸업예정)
+- **서울과학고등학교**, 2013 ~ 2016
+- **포항제철중학교**, 2010 ~ 2013
 
-## Skins (color variations)
+* 포스텍 영재기업인교육원 3기, 2012 ~ 2013
+* 중등수학, 경북과학고등학교 영재교육원, 2011 ~ 2012
+* 중등수학, 경북대학교 과학영재교육원, 2010 ~ 2011
 
-This theme comes in nine different skins (including the default one).
+## Technical Skill
 
-| `air` | `contrast` | `dark` |
-| --- | --- | --- |
-| ![air skin](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png) | ![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png) | ![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png) |
+### Programming Language
 
-| `dirt` | `mint` | `sunrise` |
-| --- | --- | --- |
-| ![dirt skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png) | ![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png) | ![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png) |
+- Python, C/C++
+- Javascript
 
-| `aqua` | `neon` | `plum` |
-| --- | --- | --- |
-| ![aqua skin](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive.png) | ![neon skin](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive.png) | ![plum skin](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive.png) |
+### Machine Learning / Data Analysis
 
-## Demo pages
+- **Deep Learning** : Keras, PyTorch
+- **ML and Data Handling** : Scikit Learn, Pandas, Numpy
+- **Visualization** : Plotly, Altair, seaborn, matplotlib
+- **Crawling** : beautiful soap4, selenium
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Web Framework / Server
 
-Additional sample posts are available under [posts archive][year-archive] on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs).
+- React, Redux
+- MySQL
 
-[header-image-post]: https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/
-[gallery-post]: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
-[html-tags-post]: https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/
-[syntax-post]: https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/
-[sample-collection]: https://mmistakes.github.io/minimal-mistakes/recipes/chocolate-chip-cookies/
-[categories-archive]: https://mmistakes.github.io/minimal-mistakes/categories/
-[tags-archive]: https://mmistakes.github.io/minimal-mistakes/tags/
-[year-archive]: https://mmistakes.github.io/minimal-mistakes/year-archive/
+### ETC
 
-## Installation
+- Git/Github
+- Qt(with PyQt5)
+- Sketch
 
-There are three ways to install: as a [gem-based theme](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes), as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) (GitHub Pages compatible), or forking/directly copying all of the theme files into your project.
+## Awards
 
-### Gem-based method
+- 2019 SCPC(삼성 대학생 프로그래밍 경진대회) 온사이트 본선 진출
+- 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
+- 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, GoInMulDaeGoSipDa)
+- 2018 TCO(TopCoder Open) **Top 300** (winning T-shirt)
+- 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **21th** place (해킹의반대말은달퀸)
+- 2018 SCPC(삼성 대학생 프로그래밍 경진대회) 온사이트 본선 진출
+- 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
+- 2016 UCPC 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 **26th** place (WellMadeSubinium)
 
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyll’s build process.
+## Lecture / 발표
 
-This allows for easier installation and updating as you don't have to manage any of the theme files. To install:
+- **T아카데미 캠퍼스 강의** : 65차 [비전공자를 위한 Git과 Github 페이지 만들기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2019
 
-1. Add the following to your `Gemfile`:
+- **Fast Campus** : [알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이](https://www.fastcampus.co.kr/dev_online_algo/) **강사**, 2019
 
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
-
-2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-3. Set the `theme` in your project's Jekyll `_config.yml` file:
-
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
-
-To update the theme run `bundle update`.
-
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.17.2"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-**Looking for an example?** Fork the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter) for the quickest method of getting a GitHub Pages hosted site up and running. Replace sample content with your own and configure as needed.
-
-## Usage
-
-For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+* 학과 알고리즘 동아리 AlKor 알고리즘 문제 풀이 **강의 및 스터디 진행**, 2016~2018
+* 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 **강사**, 2017
+* 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 **강사**, 2018
 
 ---
 
-## Contributing
+- [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **[이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들](https://www.slideshare.net/SubinAn1/ss-205782769)**, 2019
 
-Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
+- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **[알고리즘, 어떻게 공부할까?](/meaningful-ps-algorithm-study/)**, 2019
 
-Minimal Mistakes has been designed as a base for you to customize and fit your site's unique needs. Please keep this in mind when requesting features and/or submitting pull requests. If it's not something that most people will use, I probably won't consider it. When in doubt ask. 
+- 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
 
-This goes for author sidebar links and "share button" additions -- I have no intention of merging in every possibly option, the essentials are there to get you started :smile:.
+- [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](/2nd-dlcat-review/) : **The Newbie Guide to Blogging & Visualization**, 2019
 
-### Pull Requests
+## Activation / Project
 
-When submitting a pull request:
+### SW Development
 
-1. Clone the repo.
-2. Create a branch off of `master` and give it a meaningful name (e.g. `my-awesome-new-feature`).
-3. Open a pull request on GitHub and describe the feature or fix.
+- Software Maestro (2019)
 
-Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
+  - **10기 연수생**, Team FP : Force Push 팀장
+  - 웹 메모 서비스 Flower 개발
+    - Web Designer / Front-End Developer (React, Redux)
+  - SOMA 공식 블로그 : [[서포터즈 취재일기] 우리에게 꼭 필요한 Flow를 공유하다 - FP팀](https://blog.naver.com/sw_maestro/221710898997)
 
-## Development
+- 페이스북 **[삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)** 페이지 운영 (250+)
 
-To set up your environment to develop this theme, run `bundle install`.
+### Algorithm
 
-To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
+- 전국 대학생 프로그래밍 대회 동아리 연합 ([link](https://www.facebook.com/groups/ucpc.korea/))
 
----
+  - **회장**, 2019~
+  - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영, 디자인**, 2019
 
-## Credits
+- 고려대학교 정보보호학부 알고리즘 동아리 AlKor
 
-### Creator
+  - **부회장** (2017), **회장** (2018)
+  - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수**, 2017
+  - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **[출제 및 검수, 디자인, 운영](https://subinium.github.io/sgh/)**, 2018
+  - [2018 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://www.facebook.com/2018KCPC/) **출제 및 검수, 디자인, 운영**, 2018
+  - [2019 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://kcpc19.contest.codeforces.com/) **출제 및 검수, [디자인](https://www.facebook.com/shovelingdesignoper/posts/1474006526071268), 운영**, 2019
 
-**Michael Rose**
+- International Olympiad in Informatics (IOI) Training Winter Camp in Korea, **조교**, 2018
 
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
+- ACM-ICPC Asia Daejeon Regional Contest, **Staff**, 2017
 
-### Icons + Demo Images:
+- 페이스북 **[알고리즘을 고통받는 취준생을 위한 안내서](https://www.facebook.com/algoguide/?modal=admin_todo_tour)** 페이지 운영 (정리본 **[Notion](https://www.notion.so/subinium/4e7f47700af341f4b649e4cad0c4fb30?fbclid=IwAR2EmLpbL2ACW9zgQhpfox56IPue7qEWF4AgnqgJ-A0IMJiYGWHkecFJmhw)**)
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+### AI
 
-### Other:
+- [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Gumshoe](https://github.com/cferdinandi/gumshoe)
-- [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
-- [Lunr](http://lunrjs.com)
+- 페이스북 **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 페이지 운영
 
----
+## Press
 
-## License
+- [“제 수학 선생님은 유클리드… 가우스…”](http://news.donga.com/3/all/20090608/8741496/1), 2009
+- [공부가 즐겁다! 수학 완전정복 프로젝트](http://woman.donga.com/3/all/12/142535/1), 2010
+- [[내 생각은]열아홉 살 고등학생이 지구 위해 할 수 있는 일](http://www.donga.com/news/article/all/20150416/70732170/1), 2015
 
-The MIT License (MIT)
+## Contact
 
-Copyright (c) 2013-2019 Michael Rose and contributors
+- Email
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  - me@ansubin.com
+  - subinium@gmail.com
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
-creators Garrett Knoll, Arthur Shlain, and tracy tam.
-Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
-
-Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
-Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
-and [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
-
-Minimal Mistakes incorporates [Susy](http://susy.oddbird.net/),
-Copyright (c) 2017, Miriam Eric Suzanne.
-Susy is distributed under the terms of the [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause).
-
-Minimal Mistakes incorporates [Breakpoint](http://breakpoint-sass.com/).
-Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [FitVids.js](https://github.com/davatron5000/FitVids.js/),
-Copyright (c) 2013 Dave Rubert and Chris Coyier.
-FitVids is distributed under the terms of the [WTFPL License](http://sam.zoy.org/wtfpl/).
-
-Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
-Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
-Magnific Popup is distributed under the terms of the MIT License.
-
-Minimal Mistakes incorporates [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
-Copyright (c) 2019 Chris Ferdinandi.
-Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Gumshoejs](http://github.com/cferdinandi/gumshoe),
-Copyright (c) 2019 Chris Ferdinandi.
-Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
-Copyright (c) 2010 "Cowboy" Ben Alman.
-jQuery throttle / debounce is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
-Copyright (c) 2015 Luke Jackson.
-GreedyNav.js is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
-Copyright (c) 2015 Max White <mushishi78@gmail.com>.
-Jekyll Group-By-Array is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
-Copyright (c) 2017 Vladimir Jimenez.
-Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
-Copyright (c) 2018 Oliver Nightingale.
-Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- Facebook : [안수빈](https://www.facebook.com/subinium)
