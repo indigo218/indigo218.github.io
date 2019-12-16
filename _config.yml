@@ -16,22 +16,22 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Subinium의 코딩일지"
+title                    : "indigo218의 블로그"
 title_separator          : "-"
-name                     : "수비니움의 코딩일지"
-description              : "머신러닝과 딥러닝, 알고리즘과 PS를 위주로 포스팅하는 수비니움입니다."
-url                      : "https://subinium.github.io"
+name                     : "인디고의 블로그""
+description              : "시험 포스팅 중입니다"."
+url                      : "https://indigo218.github.io"
 logo                     : "/assets/images/logo3.png"
 masthead_title           : "Hello Subinium!"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "subinium/subinium.github.io"
+repository               : "indigo218/indigo218.github.io"
 teaser                   : "/assets/images/sbnu.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : www-subinium-github-io
+    shortname            : indigo218-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -103,36 +103,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "An Subin"
+  name             : "Indigo218"
   avatar           : "/assets/images/mac_asb.jpg"
-  bio              : "Yeah, I am Subinium."
-  location         : "Seoul,Korea"
-  email            : "me@ansubin.com"
+  bio              : "I am Indigo."
+  location         : "Suwon,Korea"
+  email            : "indigo218@snu.ac.kr"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "subinium"
+  facebook         : "#"
   foursquare       :
-  github           : "subinium"
+  github           : "indigo218"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "subin-an-841975110"
+  linkedin         : "#"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "subinium"
+  steam            : "#"
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
+  youtube          : "indigo218"
 
 
 # Reading Files
