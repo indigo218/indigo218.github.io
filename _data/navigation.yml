@@ -11,12 +11,12 @@ main:
   - title: "Theme"
     url: /theme
   - title: "YouTube"
-    url: https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ
+    url: https://www.youtube.com/
 
 sidebar-about:
   - title: "Who am I"
     children:
-      - title : "Awesome Nerd, Subinium"
+      - title : "Awesome"
         url: /about/
   - title : "What I Want To Do"
     children:
@@ -95,7 +95,7 @@ sidebar-keras:
 sidebar-kaggle:
   - title : "Tutorial"
     children :
-      - title : "수비니움의 캐글 따라하기"
+      - title : "캐글"
         url : /kaggle-tutorial
 
 # 유튜브 정리
