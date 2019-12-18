@@ -18,10 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
-# https://imreplay.com/blogging/minimal-mistakes-%ED%85%8C%EB%A7%88%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-githubio-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/
-
-
 title: My Blog
 email: indigo218@snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
@@ -37,19 +33,6 @@ github_username:  indigo218
 theme: minima
 plugins:
   - jekyll-feed
-
-#참고: https://junhobaik.github.io/jekyll-apply-theme/
-author: 
-  name             : "이름"
-  avatar           : # 프로필 사진
-  bio              : "이름 아래 나타날 자신의 설명"
-  location         : "Seoul,Korea"
-  email            : "a@b.c"
-  uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
-  # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
-  github : "indigo218" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -71,21 +54,35 @@ author:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-comments:
-  provider               : "disqus"
-  disqus:
-    shortname            : indigo218-github-io # Short-name
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true # 댓글 활성화
-      share: true
-      related: true
-
+# Site Author
+author:
+  name             : "M.J.Kwak"
+  avatar           : 
+  bio              : "It's Me."
+  location         : "Seoul,Korea"
+  email            : "indigo218@snu.ac.kr"
+  uri              :
+  home             : "#" # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : 
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : 
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : "https://www.youtube.com/"

@@ -28,3 +28,6 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# 아래와 같이 한줄 추가해주세요
+gem 'jekyll-admin', group: :jekyll_plugins
+#http://labs.brandi.co.kr/2018/05/14/chunbs.html 참고함
